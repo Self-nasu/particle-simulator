@@ -1,7 +1,8 @@
 #modules, constants, functions:-
 import numpy as np
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D 
+from mpl_toolkits.mplot3d import Axes3D
+from matplotlib.animation import FuncAnimation
 K=8.9975*(10**9)
 G=6.67430*(10**(-11))
 
